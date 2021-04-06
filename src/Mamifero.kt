@@ -1,0 +1,4 @@
+interface Mamifero {
+
+    fun amamantar()
+}
